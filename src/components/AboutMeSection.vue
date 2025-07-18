@@ -39,8 +39,8 @@ import { Container, TextSecondary } from './UI'
 
 // Narrative paragraphs
 const aboutMeNarrative = [
-  "Driven by an insatiable curiosity for the quantum realm and a passion for computational problem-solving, I thrive at the intersection of nanoscience, data science, and creative technology.",
-  "My journey has taken me from fundamental physics research and complex simulations to crafting intuitive command-line tools and exploring the artistic potential of 3D visualization.",
-  "I'm dedicated to leveraging cutting-edge techniques, including machine learning and advanced microscopy, to push the boundaries of what's possible at the atomic scale and to communicate these complex ideas effectively.",
+  "Hello! Driven by curiosity for the quantum realm and a passion for computational problem-solving, I thrive at the intersection of nanoscience, data science, and creative technology.",
+  "My journey has taken me from fundamental physics research and complex simulations to crafting intuitive command-line tools and exploring the artistic potential of 3D visualization of atomic simulations.",
+  "I'm dedicated to leveraging cutting-edge techniques, including machine learning and density functional theory, to push the boundaries of what's possible at the atomic scale and to communicate these complex ideas effectively. I also love dogs, Dota2 and the idea of sailing to Antartica!",
 ]
 </script>

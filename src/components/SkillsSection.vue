@@ -98,24 +98,19 @@ import SkillItem from './SkillItem.vue'
 // Skills data
 const skillsData = {
   computerSkills: [
-    { name: "Python & Fortran", icon: Code },
-    { name: "C & Odin", icon: Code },
-    { name: "SQL", icon: HardDrive },
-    { name: "Lua", icon: Code },
-    { name: "Bash/Shell Scripting", icon: Terminal },
-    { name: "JavaScript, HTML, CSS (Vue, Node.js, Tailwind CSS) (Basic) ", icon: Code },
-    { name: "Git & Github & CI/CD", icon: Github },
+    { name: "Python, C, Odin, Fortran, Lua & Bash", icon: Code },
+    { name: "GO, JavaScript/Typescript, HTTP, CSS (Tailwind, Vue, Node.js) (Basic) ", icon: Code },
+    { name: "Git & CI/CD with Github actions", icon: Github },
     { name: "Linux", icon: HardDrive },
+    { name: "SQL & SQLite", icon: HardDrive },
     { name: "Docker (Basic)", icon: HardDrive },
   ],
   scientificTools: [
-    { name: "DFT (VASP, CP2K, Tetr, Lev00)", icon: Atom },
+    { name: "DFT (VASP, CP2K, Tetr, Lev00, Chimera, Abinit)", icon: Atom },
     {
-      name: "Machine Learning (Scikit-learn, TensorFlow/Keras Basics, PyTorch Basics)",
+      name: "Machine Learning (Scikit-learn, TensorFlow/Keras, PyTorch Basics)",
       icon: Brain,
     },
- { name: "SPM (AFM/STM) Analysis", icon: BarChart3 },
-    { name: "Pymatgen, ASE (Atomic Simulation Environment)", icon: Atom },
     {
       name: "Prompt/Context 'Engineering', Antropic Claude Code, ChatGPT Codex, Gemini CLI",
       icon: BrainCog,
@@ -124,6 +119,8 @@ const skillsData = {
       name: "Data Visualization (Matplotlib, Seaborn, Plotly etc)",
       icon: BarChart3,
     },
+    { name: "SPM (AFM/STM) Analysis", icon: BarChart3 },
+    { name: "Pymatgen & ASE (Atomic Simulation Environment)", icon: Atom },
     { name: "Blender (3D Modeling & Visualization)", icon: Palette },
   ],
   languages: [

@@ -136,7 +136,7 @@ const careerMilestones = [
     id: 2,
     role: "Physics PhD Researcher",
     institution: "University of Nottingham",
-    duration: "2016-2019, 2022-Present (Expected Submission: Late 2025)",
+    duration: "2016-2019, 2022-Present (Thesis Submission: Late 2025)",
     description:
       "Thesis: 'Towards 3D printing with atoms: Integrating machine learning with scanning probe microscopy for automated atomic assembly.'",
     icon: GraduationCap,

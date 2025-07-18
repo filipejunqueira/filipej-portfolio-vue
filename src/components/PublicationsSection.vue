@@ -36,6 +36,16 @@ const publications = [
   {
     id: 1,
     title:
+      "Timing the escape of a photoexcited electron from a molecular cage",
+    authors: "Connor Fields, Aleksandra Foerster, Sadegh Ghaderzadeh, Ilya Popov, Bang Huynh, Filipe Junqueira, Tyler James, Sofia Alonso Perez, David A Duncan, Tien-Lin Lee, Yitao Wang, Sally Bloodworth, Gabriela Hoffman, Mark Walkey, Richard J Whitby, Malcolm H Levitt, Brian Kiraly, James N O’Shea, Elena Besley, Philip Moriarty",
+    journal: "NATURE COMMUNICATIONS",
+    year: "2025",
+    doi: "10.1038/s41467-025-60260-z",
+    link: "https://doi.org/10.1038/s41467-025-60260-z",
+  },
+  {
+    id: 2,
+    title:
       "Embedding human heuristics in machine-learning-enabled probe microscopy",
     authors: "Oliver M Gordon and Filipe LQ Junqueira and Philip J Moriarty.",
     journal: "MACHINE LEARNING: SCIENCE AND TECHNOLOGY-IOP PUBLISHING",
@@ -44,7 +54,7 @@ const publications = [
     link: "https://doi.org/10.1088/2632-2153/AB42EC",
   },
   {
-    id: 2,
+    id: 3,
     title:
       "Scanning tunneling state recognition with multi-class neural network ensembles",
     authors:
@@ -55,7 +65,7 @@ const publications = [
     link: "https://doi.org/10.1063/1.5099590",
   },
   {
-    id: 3,
+    id: 4,
     title: "Chemical shielding of H2O and HF encapsulated inside a C60 cage",
     authors:
       "Samuel P. Jarvis, Filipe Junqueira, Alex Saywell, Philipp Rahe, Salvatore Mamone, Simon Taylor, Adam Sweetman, Jeremy Leaf, Hongqian Sang, Lev Kantorovich, David Duncan, Tien-Lin Lee, Pardeep Kumar, Richard Whitby, Philip Moriarty, and Robert G Jones.",
@@ -66,7 +76,7 @@ const publications = [
     note: "An STM and XWS study. XWS performed at 109 hut at Diamond Light Source.",
   },
   {
-    id: 4,
+    id: 5,
     title: "Atomic cranes for cyclic single vertical atom manipulations",
     authors:
       "David Abbasi-Pérez, Hongqian Sang, Filipe Junqueira, Adam Sweetman, J. Manuel Recio, Philip Moriarty and Lev Kantorovich.",
